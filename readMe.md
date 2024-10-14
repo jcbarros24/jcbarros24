@@ -1,6 +1,6 @@
 Hi, I'm José Carlos Barros
 
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on SOUV
 - 🌱 I’m currently graduating at UNICAP
 - 📫 How to reach me josecarlosbarroscarvalho@gmail.com
 
