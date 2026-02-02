@@ -1,7 +1,7 @@
 Hi, I'm José Carlos Barros
 
 - 🔭 I’m currently working in Souv Tech
-- 🌱 I’m currently graduating at UNICAP
+- 🌱 Graduated in UNICAP
 - 📫 How to reach me josecarlosbarroscarvalho@gmail.com
 
 <div>
